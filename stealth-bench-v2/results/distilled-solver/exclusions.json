@@ -1,0 +1,67 @@
+{
+  "at": "2026-10-17T10:02:56.547824+00:00",
+  "definition": "Usable website content; verification-only outcomes do not count as content access.",
+  "overall": {
+    "attempts": 200,
+    "usable_content_access": 197,
+    "usable_content_access_percent": 98.5,
+    "verification_only": 0
+  },
+  "eligible": {
+    "attempts": 197,
+    "usable_content_access": 197,
+    "usable_content_access_percent": 100.0,
+    "verification_only": 0
+  },
+  "excluded_attempts": [
+    {
+      "repetition": 1,
+      "task_id": "shs100-058",
+      "reason": "SSL 526"
+    },
+    {
+      "repetition": 2,
+      "task_id": "shs100-058",
+      "reason": "SSL 526"
+    },
+    {
+      "repetition": 2,
+      "task_id": "shs100-075",
+      "reason": "Connection timeout"
+    }
+  ],
+  "exclusion_count": 3,
+  "exclusion_policy": "Two SSL 526 results on one site and one connection timeout on another are left out. All 200 results stay in summary.json.",
+  "by_repetition": {
+    "1": {
+      "overall": {
+        "attempts": 100,
+        "usable_content_access": 99,
+        "usable_content_access_percent": 99.0,
+        "verification_only": 0
+      },
+      "eligible": {
+        "attempts": 99,
+        "usable_content_access": 99,
+        "usable_content_access_percent": 100.0,
+        "verification_only": 0
+      }
+    },
+    "2": {
+      "overall": {
+        "attempts": 100,
+        "usable_content_access": 98,
+        "usable_content_access_percent": 98.0,
+        "verification_only": 0
+      },
+      "eligible": {
+        "attempts": 98,
+        "usable_content_access": 98,
+        "usable_content_access_percent": 100.0,
+        "verification_only": 0
+      }
+    }
+  },
+  "eligible_100_percent_supported": true,
+  "retry_provenance_retained": true
+}

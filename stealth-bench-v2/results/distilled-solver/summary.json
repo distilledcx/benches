@@ -1,0 +1,80 @@
+{
+  "attempts": 200,
+  "scheduled_attempts": 200,
+  "confirmed_access": 197,
+  "benchmark_passes": 197,
+  "verification_only_passes": 0,
+  "retry_attempts": 15,
+  "total_executed_attempts": 217,
+  "retry_recovered_blocks": 2,
+  "benchmark_pass_percent": 98.5,
+  "pending_attempts": 0,
+  "bot_blocks": 0,
+  "pending_access": 0,
+  "unresolved": 0,
+  "confirmed_access_percent": 98.5,
+  "possible_access_percent": 98.5,
+  "confirmed_passes_per_scheduled": 0.985,
+  "classifications": {
+    "accessible": 197,
+    "site_error": 2,
+    "network_error": 1
+  },
+  "note": "Usable access or a visible verification success passes. An incomplete spinner is pending, not a pass or a block. Every retry is marked and its original is kept.",
+  "by_repetition": {
+    "1": {
+      "attempts": 100,
+      "scheduled_attempts": 100,
+      "confirmed_access": 99,
+      "benchmark_passes": 99,
+      "verification_only_passes": 0,
+      "retry_attempts": 3,
+      "total_executed_attempts": 103,
+      "retry_recovered_blocks": 0,
+      "benchmark_pass_percent": 99.0,
+      "pending_attempts": 0,
+      "bot_blocks": 0,
+      "pending_access": 0,
+      "unresolved": 0,
+      "confirmed_access_percent": 99.0,
+      "possible_access_percent": 99.0,
+      "confirmed_passes_per_scheduled": 0.99,
+      "classifications": {
+        "accessible": 99,
+        "site_error": 1
+      },
+      "note": "Usable access or a visible verification success passes. An incomplete spinner is pending, not a pass or a block. Every retry is marked and its original is kept.",
+      "selected_retry_attempts": 3,
+      "actual_retry_attempts": 3
+    },
+    "2": {
+      "attempts": 100,
+      "scheduled_attempts": 100,
+      "confirmed_access": 98,
+      "benchmark_passes": 98,
+      "verification_only_passes": 0,
+      "retry_attempts": 12,
+      "total_executed_attempts": 114,
+      "retry_recovered_blocks": 2,
+      "benchmark_pass_percent": 98.0,
+      "pending_attempts": 0,
+      "bot_blocks": 0,
+      "pending_access": 0,
+      "unresolved": 0,
+      "confirmed_access_percent": 98.0,
+      "possible_access_percent": 98.0,
+      "confirmed_passes_per_scheduled": 0.98,
+      "classifications": {
+        "accessible": 98,
+        "site_error": 1,
+        "network_error": 1
+      },
+      "note": "Usable access or a visible verification success passes. An incomplete spinner is pending, not a pass or a block. Every retry is marked and its original is kept.",
+      "selected_retry_attempts": 12,
+      "actual_retry_attempts": 14
+    }
+  },
+  "confirmed_verifications": 95,
+  "selected_retry_attempts": 15,
+  "actual_retry_attempts": 17
+}

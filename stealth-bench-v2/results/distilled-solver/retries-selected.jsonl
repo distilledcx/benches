@@ -1,0 +1,15 @@
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-041", "repetition": 1, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-042", "repetition": 1, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-050", "repetition": 1, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-009", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-013", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-019", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-024", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-040", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-044", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-056", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-059", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-065", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-074", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-075", "repetition": 2, "classification": "network_error", "score": 0, "retry_used": true, "site_test_started": true}
+{"configuration": "distilled-native-luna-solver", "task_id": "shs100-083", "repetition": 2, "classification": "accessible", "score": 1, "retry_used": true, "site_test_started": true}

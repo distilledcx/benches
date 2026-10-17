@@ -1,0 +1,26 @@
+{
+  "configuration": "distilled-native-luna-solver",
+  "dataset_sha256": "6dee4f2eb9954c96445222b0fb8b7228689300f84001de4ba4ee9a952b0f3228",
+  "upstream_commit": "74b427184d84b0df391a9c337def5aadf115a893",
+  "repetitions": 2,
+  "concurrency": 1,
+  "task_order_seed_base": 20260927,
+  "snapshot_seconds": [
+    20,
+    60
+  ],
+  "observation_seconds": 60,
+  "viewport_override": false,
+  "density_override": false,
+  "cdp_attached": false,
+  "network": "Inherited phone networking; no proxy or exit rotation by this runner.",
+  "capture": "native Android PNG, including browser UI; no DOM text or response-status capture",
+  "retry_policy": "Failed acquisitions may be retried; all attempt outcomes and evidence retained",
+  "judge": {
+    "model": "gpt-5.6-luna",
+    "reasoning_effort": "low",
+    "source_sha256": "62d21c39176e3c941e444bcfc15d4bc4cc6ddafdc8ac2ce9b636b3ca679e7e71",
+    "source_unchanged": true,
+    "protocol": "stealth-solver-v5-verification-counts"
+  }
+}

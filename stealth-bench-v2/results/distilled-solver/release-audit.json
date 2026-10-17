@@ -1,0 +1,15 @@
+{
+  "scheduled_attempts": 200,
+  "recorded_attempts": 200,
+  "unique_pairs": 200,
+  "unique_tasks_per_pass": {
+    "1": 100,
+    "2": 100
+  },
+  "actual_retry_attempts": 17,
+  "total_executed_attempts": 217,
+  "originals_retained": true,
+  "public_fields_allowlisted": true,
+  "selected_retry_attempts": 15,
+  "retry_phone_disclosed": true
+}
