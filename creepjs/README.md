@@ -4,6 +4,7 @@
 
 | File | Section |
 | --- | --- |
+| `01-fingerprint-webrtc.png` | Fingerprint ID, WebRTC (internal address blurred) |
 | `02-timezone-intl-headless.png` | Timezone, Intl, Headless, Resistance |
 | `03-worker-gpu-ua.png` | Worker |
 | `04-webgl-screen.png` | WebGL, Screen |
@@ -12,4 +13,4 @@
 | `07-status-network.png` | Status, network, battery |
 | `08-battery-tests.png` | Battery, storage, test links |
 
-The first section, with WebRTC, is left out because it shows the phone's internal address.
+The WebRTC lines in 01 are blurred because they show the phone's internal address.
